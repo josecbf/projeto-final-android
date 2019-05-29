@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Filmes</string>
+    <string name="infNome">Informe o nome do filme</string>
+    <string name="infGenero">Informe o gênero do filme</string>
+    <string name="infAno">Ano lançamento</string>
+    <string name="infDispon">Disponível</string>
+    <string name="save">Salvar</string>
+    <string name="menu_delete">Apagar</string>
+    <string name="infAtores">Informe os atores</string>
+</resources>
